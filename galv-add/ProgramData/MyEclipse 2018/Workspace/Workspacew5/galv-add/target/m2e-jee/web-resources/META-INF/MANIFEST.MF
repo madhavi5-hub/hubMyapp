@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: fj830759
+Build-Jdk: 10.0.1
+Implementation-Title: galv-add
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.myapp
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
